@@ -2,7 +2,7 @@
 title: .editorconfig
 description: Formatting standards using .editorconfig
 published: true
-date: 2024-05-05T19:07:11.461Z
+date: 2024-05-05T19:07:22.836Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
