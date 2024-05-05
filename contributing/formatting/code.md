@@ -1,8 +1,8 @@
 ---
-title: Code Formatting Standards for Aux
+title: Code Guidelines
 description: Using .editorconfig
 published: true
-date: 2024-05-05T21:15:59.295Z
+date: 2024-05-05T21:37:41.027Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
