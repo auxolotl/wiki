@@ -2,7 +2,7 @@
 title: Aux Wiki
 description: Welcome to the Aux wiki!
 published: true
-date: 2024-05-05T15:44:50.401Z
+date: 2024-05-05T16:18:24.847Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T14:41:36.200Z
@@ -14,7 +14,7 @@ dateCreated: 2024-05-05T14:41:36.200Z
 
 # Welcome to the Aux Wiki!
 
-Welcome to the official documentation for Auxolotl. You can view this Wiki online at [wiki.axolotl.org](<https://wiki.auxolotl.org>), or see our source code [on GitHub](<https://github.com/auxolotl/wiki>)
+Welcome to the official documentation for Auxolotl. You can view this Wiki online at [wiki.auxolotl.org](<https://wiki.auxolotl.org>), or see our source code [on GitHub](<https://github.com/auxolotl/wiki>)
 
 If you're new to Auxolotl and want to jump right in, check out the [Getting Started guide](/getting-started).
 
