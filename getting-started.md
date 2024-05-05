@@ -2,19 +2,19 @@
 title: Getting Started Guide
 description: A quick guide to getting started with installing and using Auxolotl.
 published: true
-date: 2024-05-05T15:44:03.224Z
+date: 2024-05-05T17:53:54.448Z
 tags: installation, tutorial
 editor: markdown
 dateCreated: 2024-05-05T15:44:03.224Z
 ---
 
-# Getting Started With Aux
+# Getting Started With Auxolotl
 
 There are a few ways you can get started with Aux:
 
-- [I want to install the full Auxolotl distribution.](#installing-the-aux-command-line-tool)
+- [I want to install the full distribution.](#installing-the-aux-distribution)
 - [I want to convert my existing NixOS install to Auxolotl](#converting-nixos-to-aux)
-- [I just want to install the Aux package manager and command-line tool.](#installing-the-aux-distribution)
+- [I just want to install the Aux package manager and command-line tool.](#installing-the-aux-command-line-tool)
 
 ## Installing the Aux command-line tool
 
