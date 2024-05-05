@@ -2,7 +2,7 @@
 title: .editorconfig
 description: Formatting standards using .editorconfig
 published: true
-date: 2024-05-05T19:15:04.281Z
+date: 2024-05-05T19:16:20.343Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
@@ -25,7 +25,7 @@ indent_size = 4
 ```
 ---
 
-# Programming Languages:
+# Programming Languages
 
 ## Nix
 Using nixfmt-rfc-style
@@ -57,6 +57,8 @@ indent_size = 4
 insert_final_newline = false
 ```
 
+# Markup Languages
+
 ## Markdown
 ```editorconfig
 [*.md]
@@ -64,6 +66,7 @@ indent_size = 2
 trim_trailing_whitespace = false
 insert_final_newline = false
 ```
+
 # Data Storage Files
 
 ## JSON
