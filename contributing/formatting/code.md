@@ -2,7 +2,7 @@
 title: .editorconfig
 description: Formatting standards using .editorconfig
 published: true
-date: 2024-05-05T19:07:22.836Z
+date: 2024-05-05T19:15:04.281Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
@@ -57,6 +57,13 @@ indent_size = 4
 insert_final_newline = false
 ```
 
+## Markdown
+```editorconfig
+[*.md]
+indent_size = 2
+trim_trailing_whitespace = false
+insert_final_newline = false
+```
 # Data Storage Files
 
 ## JSON
