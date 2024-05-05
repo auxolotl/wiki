@@ -2,7 +2,7 @@
 title: .editorconfig
 description: Formatting standards using .editorconfig
 published: true
-date: 2024-05-05T19:19:38.337Z
+date: 2024-05-05T19:24:31.374Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
@@ -78,4 +78,13 @@ indent_size = 2
 ```editorconfig
 [*.csv]
 indent_size = 0
+```
+
+# Build Tool Files
+
+## Make
+
+```
+[Makefile]
+indent_style = tab
 ```
