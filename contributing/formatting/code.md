@@ -2,16 +2,14 @@
 title: .editorconfig
 description: Formatting standards using .editorconfig
 published: true
-date: 2024-05-05T20:57:44.538Z
+date: 2024-05-05T21:02:56.241Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
 ---
 
-# Standardization
-These .editorconfig files are broken down into language specific sections.
-
-Always include this global portion:
+# Global
+Start your `.editorconfig` file with this:
 ```editorconfig
 root = true
 
@@ -22,6 +20,8 @@ end_of_line = lf
 insert_final_newline = true
 indent_style = space
 ```
+And add any additional types you need from below, making sure to seperate each section with a new line.
+
 ---
 
 # Programming Languages
