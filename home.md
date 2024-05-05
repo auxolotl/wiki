@@ -2,7 +2,7 @@
 title: Aux Wiki
 description: Welcome to the Aux wiki!
 published: true
-date: 2024-05-05T15:19:05.698Z
+date: 2024-05-05T15:19:26.173Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T14:41:36.200Z
