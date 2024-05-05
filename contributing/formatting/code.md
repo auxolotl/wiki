@@ -2,7 +2,7 @@
 title: .editorconfig
 description: Formatting standards using .editorconfig
 published: true
-date: 2024-05-05T20:22:30.462Z
+date: 2024-05-05T20:57:44.538Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
@@ -154,7 +154,7 @@ trim_trailing_whitespace = unset
 
 ## Make
 
-```
+```editorconfig
 [Makefile]
 indent_style = tab
 ```
