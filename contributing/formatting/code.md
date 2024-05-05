@@ -2,7 +2,7 @@
 title: .editorconfig
 description: Formatting standards using .editorconfig
 published: true
-date: 2024-05-05T19:24:31.374Z
+date: 2024-05-05T20:22:30.462Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
@@ -56,6 +56,21 @@ indent_size = 4
 insert_final_newline = false
 ```
 
+## C and Related
+```editorconfig
+[*.{c,cpp,cs,h,hpp,C,H,cxx,hxx}]
+indent_size = 4
+
+[*.{sln,csproj,vbproj,vcxproj.filters,proj,projitems,shproj}]
+indent_size = 2
+```
+
+## Shell Script
+```editorconfig
+[*.{sh,zsh,bash,bat,cmd,ps1,psm1}]
+indent_size = 4
+```
+
 # Markup Languages
 
 ## Markdown
@@ -66,18 +81,73 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 ```
 
+## Web
+```editorconfig
+[*.{htm,html,less,svg,vue}]
+indent_size = 2
+
+[*.{css.sass,scss,less}]
+indent_size = 2
+```
+
 # Data Storage Files
 
-## JSON
+## JSON, YAML
 ```editorconfig
-[*.{json,json5}]
+[*.{json,json5,yaml,yml,webmanifest}]
+indent_size = 2
+```
+
+## TOML
+```editorconfig
+[*.toml]
+indent_style = unset
+indent_size = 0
+```
+
+## \*RC
+```editorconfig
+[.*rc]
 indent_size = 2
 ```
 
 ## CSV
 ```editorconfig
 [*.csv]
+end_of_line = unset
+insert_final_newline = unset
+trim_trailing_whitespace = unset
 indent_size = 0
+indent_style = unset
+```
+
+## Lockfile
+```editorconfig
+[*.lock]
+indent_style = unset
+insert_final_newline = unset
+```
+
+## Git
+```editorconfig
+[*.{diff,patch}]
+end_of_line = unset
+insert_final_newline = unset
+trim_trailing_whitespace = unset
+indent_size = unset
+indent_style = unset
+
+[.{gitignore,gitreview,gitmodules}]
+indent_style = unset
+indent_size = 0
+```
+
+## Keys
+```editorconfig
+[*.{asc,key,ovpn,pem}]
+end_of_line = unset
+insert_final_newline = unset
+trim_trailing_whitespace = unset
 ```
 
 # Build Tool Files
