@@ -2,7 +2,7 @@
 title: SIGs and Committees
 description: What are they? How do they differ?
 published: true
-date: 2024-05-05T16:37:51.902Z
+date: 2024-05-05T18:09:06.521Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T16:35:17.642Z
@@ -12,7 +12,7 @@ dateCreated: 2024-05-05T16:35:17.642Z
 
 SIGs, or "Special Interest Groups" are groups of people who focus on a particular area. They have specific projects and tasks with clear "things" as outcomes. For example, the Core Special Interest Group maintains vital packages and is involved in creating templates for new systems, and the Documentation Special Interest Group maintains the Wiki.
 
-For more information on SIGs, what SIGs exist, and how to join one, please see [our full page on SIGs](/contributing/sigs).
+For more information on SIGs, what SIGs exist, and how to join one, please see [our full page on SIGs](/contributing/sigs-and-committees/sigs).
 
 ## What's a committee?
 
