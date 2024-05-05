@@ -2,7 +2,7 @@
 title: .editorconfig
 description: Formatting standards using .editorconfig
 published: true
-date: 2024-05-05T19:16:20.343Z
+date: 2024-05-05T19:19:38.337Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
@@ -21,7 +21,6 @@ trim_trailing_whitespace = true
 end_of_line = lf
 insert_final_newline = true
 indent_style = space
-indent_size = 4
 ```
 ---
 
