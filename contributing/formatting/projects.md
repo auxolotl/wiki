@@ -2,7 +2,7 @@
 title: Project Standards
 description: 
 published: true
-date: 2024-05-06T01:31:52.407Z
+date: 2024-05-06T02:03:27.122Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T21:22:30.441Z
@@ -13,7 +13,7 @@ All names, including but not limited to CI Actions, Respositories, and folder na
 
 # Structure
 All projects should provide:
-- A devnev when applicable, preferably in the form of direnv.
+- A devenv when applicable, preferably in the form of direnv.
 	- If devenv is applicable also provide a flake.lock
 - A short summary of what the project does, as well as how to use the project in a top level README.​md
 	- The README should include a badge of who the repository is maintained by
