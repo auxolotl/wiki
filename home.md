@@ -2,7 +2,7 @@
 title: Aux Wiki
 description: Welcome to the Aux wiki!
 published: true
-date: 2024-05-06T05:03:51.345Z
+date: 2024-05-06T05:04:25.444Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T14:41:36.200Z
@@ -30,9 +30,7 @@ Check out our Getting Started guide, or if you want to jump right in, [download 
 
 ## How is Auxolotl different from Nix/NixOS?
 
-Currently Auxolotl and Nix are intercompatible: i.e., you can install Nix packages in Auxolotl, and vice versa. You can easily switch between them in either direction at any time. Auxolotl's compatibility with Nix may change as development continues.
-
-Auxolotl is also fully compatible with [Lix](https://lix.systems), a modern, community-focused replacement for the Nix evaluator.
+Currently Auxolotl and Nix are intercompatible: i.e., you can install Nix packages in Auxolotl, and vice versa. You can easily switch between them in either direction at any time. Auxolotl's compatibility with Nix may change as development continues.  Auxolotl is also fully compatible with [Lix](https://lix.systems), a modern, community-focused replacement for the Nix evaluator.
 
 Auxolotl has a simple community governance model different from the complex governance model of the Nix ecosystem.
 
