@@ -2,7 +2,7 @@
 title: SIGs and Committees
 description: What are they? How do they differ?
 published: true
-date: 2024-05-05T18:09:06.521Z
+date: 2024-05-06T02:31:09.317Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T16:35:17.642Z
@@ -18,7 +18,7 @@ For more information on SIGs, what SIGs exist, and how to join one, please see [
 
 Committees handle the direction of the project in a particular area. For example, the Security Committee handles security in the whole project, setting guidelines for how SIGs should handle security.
 
-For more information on committees, what committees exist, and how to join one, please see [our full page on committees](/contributing/committees).
+For more information on committees, what committees exist, and how to join one, please see [our full page on committees](/contributing/sigs-and-committees/committees).
 
 ## What's the difference?
 
