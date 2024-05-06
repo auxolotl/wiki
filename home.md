@@ -2,7 +2,7 @@
 title: Aux Wiki
 description: Welcome to the Aux wiki!
 published: true
-date: 2024-05-06T05:04:59.756Z
+date: 2024-05-06T05:05:38.639Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T14:41:36.200Z
@@ -46,7 +46,7 @@ You don't need to be a software developer or experienced system administrator to
 
 ## Why was Auxolotl created?
 
-Auxolotl was created as a proactive friendly fork of the Nix ecosystem in order to make sure that there is a community-focused version of the Nix dream, and also to provide a living experiment in governance and (eventually) technical augmentations to Nix.
+Auxolotl was created as a proactive friendly fork of the Nix ecosystem in order to make sure that there is a community-focused version of the Nix dream, and also to provide a living experiment in governance and (eventually) technical augmentations to Nix and NixOS.
 
 ## Who's behind Auxolotl?
 
