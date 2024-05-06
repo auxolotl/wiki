@@ -2,7 +2,7 @@
 title: Aux Wiki
 description: Welcome to the Aux wiki!
 published: true
-date: 2024-05-06T05:05:38.639Z
+date: 2024-05-06T08:16:08.028Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T14:41:36.200Z
@@ -26,7 +26,7 @@ Auxolotl is a community-driven fork of [Nix](https://nixos.org/), a package mana
 
 ## How do I get started with Auxolotl?
 
-Check out our Getting Started guide, or if you want to jump right in, [download a template for quickly bootstrapping a system with Auxolotl](https://github.com/auxolotl/templates).
+Check out our [Getting Started](/getting-started) guide, or if you want to jump right in, [download a template for quickly bootstrapping a system with Auxolotl](https://github.com/auxolotl/templates).
 
 ## How is Auxolotl different from Nix/NixOS?
 
