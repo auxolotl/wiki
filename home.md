@@ -2,7 +2,7 @@
 title: Aux Wiki
 description: Welcome to the Aux wiki!
 published: true
-date: 2024-05-06T02:10:49.714Z
+date: 2024-05-06T03:03:13.249Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T14:41:36.200Z
@@ -32,6 +32,10 @@ Check out our Getting Started guide, or if you want to jump right in, [download 
 
 Currently Auxolotl and Nix are intercompatible: i.e., you can install Nix packages in Auxolotl, and vice versa. You can also easily switch between both distros. Auxolotl's compatibility with Nix may change as development continues.
 
+Auxolotl has a simple community governance model different from the complex governance model of the Nix ecosystem.
+
+Auxolotl may develop technical differences from Nix and NixOS in the future.
+
 ## Who is Auxolotl for?
 
 The short answer is: Auxolotl is for everyone.
@@ -42,7 +46,7 @@ You don't need to be a software developer or experienced system administrator to
 
 ## Why was Auxolotl created?
 
-==TODO==
+Auxolotl was created as a proactive friendly fork of the Nix ecosystem in order to make sure that there is a community-focused version of the Nix dream, and also to provide a living experiment in governance and (eventually) technical augmentations to Nix.
 
 ## Who's behind Auxolotl?
 
