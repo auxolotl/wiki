@@ -2,7 +2,7 @@
 title: Code Standards
 description: Using .editorconfig
 published: true
-date: 2024-05-06T20:22:26.149Z
+date: 2024-05-06T20:27:56.476Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
@@ -58,6 +58,13 @@ indent_size = 4
 insert_final_newline = false
 ```
 
+## Go
+Using gofmt
+```editorconfig
+[*.{go,mod}]
+indent_size = 4
+```
+
 ## C and Related
 ```editorconfig
 [*.{c,cpp,cs,h,hpp,C,H,cxx,hxx}]
@@ -96,7 +103,14 @@ indent_size = 2
 
 ## JSON, YAML
 ```editorconfig
-[*.{json,json5,yaml,yml,webmanifest}]
+[*.{json,json5,webmanifest}]
+indent_size = 2
+```
+
+## YAML
+```editorconfig
+[*.{yaml,yml}]
+indent_style = space
 indent_size = 2
 ```
 
@@ -158,5 +172,5 @@ trim_trailing_whitespace = unset
 
 ```editorconfig
 [Makefile]
-indent_style = tab
+indent_size = 2
 ```
