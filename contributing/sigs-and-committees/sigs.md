@@ -1,8 +1,8 @@
 ---
 title: SIGs
-description: Your guide to Special Interest Groups and what they do...
+description: Your guide to Special Interest Groups and what they do
 published: true
-date: 2024-05-05T17:22:20.994Z
+date: 2024-05-06T02:30:33.716Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T17:22:20.994Z
