@@ -2,7 +2,7 @@
 title: Getting Started Guide
 description: A quick guide to getting started with installing and using Auxolotl.
 published: true
-date: 2024-05-05T17:53:54.448Z
+date: 2024-05-06T09:35:13.691Z
 tags: installation, tutorial
 editor: markdown
 dateCreated: 2024-05-05T15:44:03.224Z
@@ -32,7 +32,19 @@ $ TODO
 
 ## Converting NixOS to Aux
 
-If you have an existing NixOS installation and want to convert it to use Aux, all you need to do is change your `nixpkgs` input to use the Auxolotl nixpkgs repository.
+If you have an existing NixOS installation and want to convert it to use Aux, all you need to do is change your `nixpkgs` source to use the Auxolotl nixpkgs repository (substituting `<release>` with desired release - such as `unstable` or `23.11`).
+
+### Channels
+
+To change your `nixpkgs` channel to pull from Aux, run the following command:
+
+```shell=
+nix-channel --add https://github.com/auxolotl/nixpkgs/nixos-<release> nixpkgs
+```
+
+On your next `nix-channel --update` or `nixos-rebuild --upgrade`, Aux will get pulled.
+
+### Flakes
 
 Open your `flake.nix` file and change the following line:
 
