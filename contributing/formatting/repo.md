@@ -2,7 +2,7 @@
 title: Repository Standards
 description: Formatting rules for new repositories
 published: true
-date: 2024-05-06T01:27:42.479Z
+date: 2024-05-06T01:27:55.416Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T21:22:30.441Z
@@ -18,4 +18,4 @@ All projects should provide:
 - A devnev when applicable, preferably in the form of direnv. 
 - A short summary of what the project does, as well as how to use the project in a top level README.​md
 	- The README should include a badge of who the repository is maintained by
-- A CONTRIBUTING.​md file top level that tells people how to contribue to said project
+- A CONTRIBUTING.​md file top level that tells people how to contribute to said project
