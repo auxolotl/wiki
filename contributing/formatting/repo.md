@@ -1,8 +1,8 @@
 ---
-title: Repository Standards
-description: Formatting rules for new repositories
+title: Project Standards
+description: 
 published: true
-date: 2024-05-06T01:28:19.608Z
+date: 2024-05-06T01:28:55.630Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T21:22:30.441Z
