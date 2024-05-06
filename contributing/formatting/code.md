@@ -2,7 +2,7 @@
 title: Code Standards
 description: Using .editorconfig
 published: true
-date: 2024-05-05T21:38:04.029Z
+date: 2024-05-06T20:22:26.149Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
@@ -18,7 +18,7 @@ charset = utf-8
 trim_trailing_whitespace = true
 end_of_line = lf
 insert_final_newline = true
-indent_style = space
+indent_style = tabs
 ```
 And add any additional types you need from below, making sure to separate each section with a new line.
 
@@ -32,6 +32,7 @@ Using nixfmt-rfc-style
 [*.nix]
 indent_size = 2
 insert_final_newline = false
+indent_style = space
 ```
 
 ## Python
@@ -39,6 +40,7 @@ Using pycodestyle
 ```editorconfig
 [*.{py,py3}]
 indent_size = 4
+indent_style = space
 ```
 
 ## Node.js
