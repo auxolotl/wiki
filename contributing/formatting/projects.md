@@ -2,7 +2,7 @@
 title: Project Standards
 description: 
 published: true
-date: 2024-05-06T20:03:03.088Z
+date: 2024-05-06T20:10:49.577Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T21:22:30.441Z
@@ -23,4 +23,8 @@ All projects should provide:
 # Commit Messages
 - First line of the commit message should be a short (<50 chars) description of the purpose of the commit
 	- First word should be one of: `feat:` for feature, `fix:` for bugfixes, or `break:` for breaking changes
-- 
+- First line and main message should have 1 blank newline in between them for ease of reading
+- Main messages
+	- **Features** should have a reason to include the feature, as well as an example of the feature in use (if applicable)
+  - **Fixes** should have what the original bug was, as well as a short summary of the steps that were required to fix it
+  - **Breaking Changes** should have what it breaks, how it breaks it, and a short transition guide
