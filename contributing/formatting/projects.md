@@ -2,7 +2,7 @@
 title: Project Standards
 description: 
 published: true
-date: 2024-05-06T20:10:49.577Z
+date: 2024-05-07T23:39:00.653Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T21:22:30.441Z
@@ -28,3 +28,6 @@ All projects should provide:
 	- **Features** should have a reason to include the feature, as well as an example of the feature in use (if applicable)
   - **Fixes** should have what the original bug was, as well as a short summary of the steps that were required to fix it
   - **Breaking Changes** should have what it breaks, how it breaks it, and a short transition guide
+
+# Merging to main with bugs
+There are a few reasonable expectations for merges, one is that any change that is made in the project should not include bugs except in extremely rare cases where bugs are unable to be fixed without upstream changes. In this case a bug should be added to the projects kanban board (or similar) with relevant information like the file & code section the bug is in and which upstream issue is causing the bug (if known).
