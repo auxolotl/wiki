@@ -2,7 +2,7 @@
 title: Getting Started Guide
 description: A quick guide to getting started with installing and using Auxolotl.
 published: true
-date: 2024-05-06T09:35:13.691Z
+date: 2024-05-07T22:21:14.335Z
 tags: installation, tutorial
 editor: markdown
 dateCreated: 2024-05-05T15:44:03.224Z
@@ -15,6 +15,10 @@ There are a few ways you can get started with Aux:
 - [I want to install the full distribution.](#installing-the-aux-distribution)
 - [I want to convert my existing NixOS install to Auxolotl](#converting-nixos-to-aux)
 - [I just want to install the Aux package manager and command-line tool.](#installing-the-aux-command-line-tool)
+
+Other ways to use Aux:
+
+- [Flake templates](#flake-templates)
 
 ## Installing the Aux command-line tool
 
@@ -61,3 +65,11 @@ nixpkgs.url = "github:auxolotl/nixpkgs/nixos-<release>";
 ## Installing the Aux distribution
 
 ==TODO==
+
+## Other ways to use Aux
+
+### Flake templates
+
+[Download from GitHub](https://github.com/auxolotl/templates)
+
+Aux provides [templates](https://github.com/auxolotl/templates) for you to use to bootstrap a default Nix system with Aux. These include templates for Linux, Darwin (macOS), and home-manager.
