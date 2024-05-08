@@ -2,7 +2,7 @@
 title: Project Standards
 description: 
 published: true
-date: 2024-05-07T23:39:00.653Z
+date: 2024-05-08T22:45:24.283Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T21:22:30.441Z
@@ -31,3 +31,6 @@ All projects should provide:
 
 # Merging to main with bugs
 There are a few reasonable expectations for merges, one is that any change that is made in the project should not include bugs except in extremely rare cases where bugs are unable to be fixed without upstream changes. In this case a bug should be added to the projects kanban board (or similar) with relevant information like the file & code section the bug is in and which upstream issue is causing the bug (if known).
+
+# Code
+Autoformat specifications for code can be found on our [Code Standards](https://wiki.auxolotl.org/contributing/formatting/code) page. Please check them there.
