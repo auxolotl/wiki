@@ -2,7 +2,7 @@
 title: Project Standards
 description: 
 published: true
-date: 2024-05-08T22:45:24.283Z
+date: 2024-05-09T21:40:13.825Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T21:22:30.441Z
@@ -10,6 +10,8 @@ dateCreated: 2024-05-05T21:22:30.441Z
 
 # Naming
 All names, including but not limited to CI Actions, Respositories, and folder names inside the project, must follow lower-kebab-case except in cases where a program requires something else.
+
+*Note: Do not use lower-kebab-case for variable names in nix.*
 
 # Structure
 All projects should provide:
