@@ -1,12 +1,16 @@
 ---
 title: Getting Started Guide
 description: A quick guide to getting started with installing and using Auxolotl.
-published: true
-date: 2024-05-07T22:21:14.335Z
+published: false
+date: 2024-05-11T20:30:05.302Z
 tags: installation, tutorial
 editor: markdown
 dateCreated: 2024-05-05T15:44:03.224Z
 ---
+
+> **This page is outdated**
+> After the [roadmap changes](https://forum.aux.computer/t/updates-and-clarifications-to-our-roadmap/593) this page should no longer refer to `auxolotl/nixpkgs`. It would be good to have a migration guide, but it would require serious modification of this page. Do not follow the instructions on this page. It is only available to logged-in users.
+{.is-danger}
 
 # Getting Started With Auxolotl
 
