@@ -1,8 +1,8 @@
 ---
 title: Committees
 description: 
-published: false
-date: 2024-05-11T16:43:10.813Z
+published: true
+date: 2024-05-11T16:44:10.898Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-11T16:31:30.923Z
