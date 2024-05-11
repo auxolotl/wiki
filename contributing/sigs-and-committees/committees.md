@@ -2,7 +2,7 @@
 title: Committees
 description: 
 published: false
-date: 2024-05-11T16:31:53.139Z
+date: 2024-05-11T16:43:10.813Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-11T16:31:30.923Z
@@ -18,18 +18,18 @@ The ideas for committees are inspired by [the kubernetes governance](https://git
 
 | Name          | Responsibility                                                                                                   | Current Leaders           |
 |---------------|------------------------------------------------------------------------------------------------------------------|---------------------------|
-| Steering          | Maintains `rust` and rust packaging support for Aux                                                              |                           |
-| Code of Conduct   | Maintains `rust` and rust packaging support for Aux                                                              |                           |
-| Marketing         | Maintains `rust` and rust packaging support for Aux                                                              |                           |
-| Security          | Maintains `rust` and rust packaging support for Aux                                                              |                           |
+| Steering          | Decides on the direction for Aux, for example by determining the roadmap, and oversees the formation of SIGs and Committees | @jakehamilton, @isabel, @minion |
+| Code of Conduct   | Determines the Code of Conduct and oversees moderation | @axel, @isabel |
+| Marketing         | Determines branding and public presence for Aux |                           |
+| Security          | Determines security guidelines for SIGs, and aims to make security both excellent and accessible | @c8h4, @dfh |
 
 
-## SIG Meetings
+## Committee Meetings
 
-SIG meetings are open to everyone, whether you're a part of the SIG or not. SIGs which hold regular meetings are listed below.
+Some committee meetings are open to everyone, whether you're a part of the committee or not. Committees are also allowed to hold private meetings among only their members, but are encouraged to make as many of their meetings public as possible. Committees which hold regular public meetings are listed below.
 
-Meetings are also announced on their respective SIG category on the forum before they occur. Meeting announcements include an agenda, an up-to-date meeting link, and details such as schedule changes. We recommend treating them as fully authoritative for specific meetings and taking this table as a guide for meetings you may want to attend on a regular basis.
+Meetings are also announced on their respective committee category on the forum before they occur. Meeting announcements include an agenda, an up-to-date meeting link, and details such as schedule changes. We recommend treating them as fully authoritative for specific meetings and taking this table as a guide for meetings you may want to attend on a regular basis.
 
-| SIG           | Meeting Time           | Meeting length | Join Link                                       |
+| Committee     | Meeting Time           | Meeting length | Join Link                                       |
 |---------------|------------------------|----------------|-------------------------------------------------|
-| Documentation | Saturdays at 17:00 UTC | around 1 hour  | [AuxDocs on Jitsi](https://meet.jit.si/AuxDocs) |
+| Security      | Thursdays at 18:00 UTC | around 1 hour  | [dfh's opentalk room](https://opentalk.mailbox.org/room/b7508d49-130c-48af-920d-53ebd8e3891a?invite=96dd445c-0b88-4a78-9fa4-33f6f260bbd6) |
