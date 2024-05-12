@@ -2,10 +2,10 @@
 title: Committees
 description: 
 published: true
-date: 2024-05-11T16:44:10.898Z
+date: 2024-05-12T16:25:00.000Z
 tags: 
 editor: markdown
-dateCreated: 2024-05-11T16:31:30.923Z
+dateCreated: 2024-05-12T16:25:00.000Z
 ---
 
 # Committees
@@ -21,7 +21,7 @@ The ideas for committees are inspired by [the kubernetes governance](https://git
 | Steering          | Decides on the direction for Aux, for example by determining the roadmap, and oversees the formation of SIGs and Committees | @jakehamilton, @isabel, @minion |
 | Code of Conduct   | Determines the Code of Conduct and oversees moderation | @axel, @isabel |
 | Marketing         | Determines branding and public presence for Aux |                           |
-| Security          | Determines security guidelines for SIGs, and aims to make security both excellent and accessible | @c8h4, @dfh |
+| [Security]        | Determines security guidelines for SIGs, and aims to make security both excellent and accessible | @c8h4, @dfh |
 
 
 ## Committee Meetings
@@ -32,4 +32,6 @@ Meetings are also announced on their respective committee category on the forum 
 
 | Committee     | Meeting Time           | Meeting length | Join Link                                       |
 |---------------|------------------------|----------------|-------------------------------------------------|
-| Security      | Thursdays at 18:00 UTC | around 1 hour  | [dfh's opentalk room](https://opentalk.mailbox.org/room/b7508d49-130c-48af-920d-53ebd8e3891a?invite=96dd445c-0b88-4a78-9fa4-33f6f260bbd6) |
+| [Security]    | Thursdays at 18:00 UTC | around 1 hour  | [dfh's opentalk room](https://opentalk.mailbox.org/room/b7508d49-130c-48af-920d-53ebd8e3891a?invite=96dd445c-0b88-4a78-9fa4-33f6f260bbd6) |
+
+[Security]:security/welcome.md
