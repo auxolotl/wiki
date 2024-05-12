@@ -1,4 +1,14 @@
-# Committee Security - Onboarding
+--- 
+title: Onboarding - Committee Security
+description:  
+published: true 
+date: 2024-05-12T16:25:00.000Z 
+tags:  
+editor: markdown 
+dateCreated: 2024-05-12T16:25:00.000Z
+---
+
+# Onboarding - Committee Security
 
 If you are interested in joining COMSEC, please make sure to follow the steps listed below. For now all steps are manual, there's not yet automation or data-sync between different platforms in place. We hope to be able to change this in the future.
 
