@@ -2,7 +2,7 @@
 title: Aux Wiki
 description: Welcome to the Aux wiki!
 published: true
-date: 2024-05-13T17:09:37.582Z
+date: 2024-05-14T19:41:40.880Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T14:41:36.200Z
@@ -15,8 +15,6 @@ dateCreated: 2024-05-05T14:41:36.200Z
 # Welcome to the Aux Wiki!
 
 This is the home of the official documentation for Auxolotl.
-
-If you're new to Auxolotl and want to jump right in, check out the [Getting Started guide](/getting-started).
 
 > If you have any questions, comments, or suggestions for how we can improve docs, please contact the SIG-DOCS team on [Discourse](https://forum.aux.computer/c/special-interest-groups/sig-documentation/21).
 
