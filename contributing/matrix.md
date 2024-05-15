@@ -2,7 +2,7 @@
 title: Matrix
 description: Join our Matrix chat channels
 published: true
-date: 2024-05-15T22:09:43.764Z
+date: 2024-05-15T22:14:17.815Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-06T23:45:41.266Z
@@ -11,6 +11,10 @@ dateCreated: 2024-05-06T23:45:41.266Z
 # What is Matrix?
 
 Matrix is a chat protocol, providing a similar experience to chat services such as WhatsApp, Discord or XMPP.
+
+# Moderation
+
+If you have concerns about an interaction on Matrix and want to report something to the community moderators, please do so on [forum.aux.computer](https://forum.aux.computer/about).
 
 # Our channels
 
