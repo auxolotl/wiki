@@ -2,7 +2,7 @@
 title: Matrix
 description: Join our Matrix chat channels
 published: true
-date: 2024-05-15T22:14:17.815Z
+date: 2024-05-15T22:14:38.530Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-06T23:45:41.266Z
