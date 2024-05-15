@@ -2,7 +2,7 @@
 title: Matrix
 description: Join our Matrix chat channels
 published: true
-date: 2024-05-07T00:17:38.249Z
+date: 2024-05-15T22:09:43.764Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-06T23:45:41.266Z
@@ -55,7 +55,7 @@ We also have [SIG-and-committee](/contributing/sigs-and-committees)-specific cha
 |-----------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Committee: Steering General | Talk about large-scale project direction | [#COMSTEER-GEN:auxolotl.org](https://matrix.to/#/#COMSTEER-GEN:auxolotl.org)       |
 | Committee: Security General | Talk about security and how we can make Aux reasonably secure | [#COMSEC-GEN:auxolotl.org](https://matrix.to/#/#COMSEC-GEN:auxolotl.org)       |
-| Committee: Code of Conduct General | Talk about our moderation or submit reports | [#COMCOC-GEN:auxolotl.org](https://matrix.to/#/#COMCOC-GEN:auxolotl.org)       |
+| Committee: Code of Conduct General | Public discussion and questions for the committee | [#COMCOC-GEN:auxolotl.org](https://matrix.to/#/#COMCOC-GEN:auxolotl.org)       |
 | Committee: Marketing General | Talk about our logos, branding and public presence | [#COMMARKET-GEN:auxolotl.org](https://matrix.to/#/#COMMARKET-GEN:auxolotl.org)       |
 | Committee: Steering Governance | Talk about how the steering committee is run | [#COMSTEER-GOV:auxolotl.org](https://matrix.to/#/#COMSTEER-GOV:auxolotl.org)       |
 | Committee: Security Governance | Talk about how the security committee is run | [#COMSEC-GOV:auxolotl.org](https://matrix.to/#/#COMSEC-GOV:auxolotl.org)       |
