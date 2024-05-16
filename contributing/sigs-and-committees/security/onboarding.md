@@ -2,7 +2,7 @@
 title: Onboarding - Committee Security
 description: 
 published: true
-date: 2024-05-16T19:10:20.259Z
+date: 2024-05-16T19:31:41.175Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T17:02:35.590Z
@@ -20,6 +20,7 @@ Should any of the links below be broken or descriptions inaccurate we highly app
 3) Add/ update your membership status in the [community repo])(https://github.com/auxolotl/community)
   - Add or update your user settings in [`users.nix`](https://github.com/auxolotl/community/blob/main/users.nix)
   - Add your user to list `committees.security.members` in [`memberships.nix`](https://github.com/auxolotl/community/blob/main/memberships.nix)
+  - Create a PR to add yourself to the ["Team members" in the wiki](https://github.com/auxolotl/wiki/blob/main/contributing/sigs-and-committees/security/aux-security-team.md)
 
   Make sure to stick with the alphabetic ordering for readability!
 
