@@ -2,16 +2,14 @@
 title: Project Standards
 description: 
 published: true
-date: 2024-05-09T21:40:13.825Z
+date: 2024-05-16T22:16:24.144Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T21:22:30.441Z
 ---
 
 # Naming
-All names, including but not limited to CI Actions, Respositories, and folder names inside the project, must follow lower-kebab-case except in cases where a program requires something else.
-
-*Note: Do not use lower-kebab-case for variable names in nix.*
+All names, including but not limited to CI Actions, Respositories, and folder and file names inside the project, must follow lower-kebab-case except in cases where a program requires something else.
 
 # Structure
 All projects should provide:
@@ -35,4 +33,4 @@ All projects should provide:
 There are a few reasonable expectations for merges, one is that any change that is made in the project should not include bugs except in extremely rare cases where bugs are unable to be fixed without upstream changes. In this case a bug should be added to the projects kanban board (or similar) with relevant information like the file & code section the bug is in and which upstream issue is causing the bug (if known).
 
 # Code
-Autoformat specifications for code can be found on our [Code Standards](https://wiki.auxolotl.org/contributing/formatting/code) page. Please check them there.
+Autoformat specifications for code can be found on our [Editorconfig standards](https://wiki.auxolotl.org/contributing/formatting/editorconfig) page. Please check them there.
