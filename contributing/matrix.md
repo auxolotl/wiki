@@ -22,7 +22,7 @@ If you have concerns about an interaction on Matrix and want to report something
 | ---------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
 | Auxolotl General | Discuss the project, how you're using it, or ask for help | [#general:auxolotl.org](https://matrix.to/#/#general:auxolotl.org) |
 
-We also have [SIG-and-committee](/contributing/sigs-and-committees)-specific channels.
+We also have [SIG-and-committee](/community)-specific channels.
 
 ## For SIGs
 
