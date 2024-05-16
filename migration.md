@@ -1,8 +1,8 @@
 ---
 title: Migration Guide
 description: Migrating from Nix to Aux
-published: false
-date: 2024-05-16T21:36:12.266Z
+published: true
+date: 2024-05-16T21:36:30.357Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T21:27:55.828Z
