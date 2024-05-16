@@ -1,8 +1,8 @@
 ---
-title: SIGs and Committees
-description: What are they? How do they differ?
+title: Community
+description: What are SIGs and Committees? How do they differ?
 published: true
-date: 2024-05-06T02:31:09.317Z
+date: 2024-05-16T22:07:10.806Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T16:35:17.642Z
