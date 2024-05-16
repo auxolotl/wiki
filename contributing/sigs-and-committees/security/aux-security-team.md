@@ -2,7 +2,7 @@
 title: Aux Security Committee
 description: Information related to the Aux Security Committee
 published: true
-date: 2024-05-16T19:25:47.469Z
+date: 2024-05-16T19:30:13.890Z
 tags: security, cve, vulnerabilities
 editor: markdown
 dateCreated: 2024-05-16T19:25:47.469Z
@@ -31,3 +31,4 @@ TODO How do we want users/researcher report the vulnerability as step by step pr
 - Dfh (Olly)
 - Skyler
 - Christoph
+- CodingPuffin
