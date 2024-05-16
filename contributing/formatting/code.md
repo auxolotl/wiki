@@ -1,8 +1,8 @@
 ---
-title: Code Standards
+title: Editorconfig
 description: Using .editorconfig
 published: true
-date: 2024-05-06T20:35:46.182Z
+date: 2024-05-16T22:15:36.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T18:30:37.455Z
