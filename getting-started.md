@@ -1,8 +1,8 @@
 ---
-title: Getting Started Guide
+title: Installation Guide
 description: A quick guide to getting started with installing and using Auxolotl.
 published: false
-date: 2024-05-11T20:30:05.302Z
+date: 2024-05-16T21:28:42.014Z
 tags: installation, tutorial
 editor: markdown
 dateCreated: 2024-05-05T15:44:03.224Z
