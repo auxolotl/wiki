@@ -2,7 +2,7 @@
 title: Onboarding - Committee Security
 description: 
 published: true
-date: 2024-05-16T19:31:41.175Z
+date: 2024-05-16T19:47:07.894Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T17:02:35.590Z
@@ -28,3 +28,6 @@ Should any of the links below be broken or descriptions inaccurate we highly app
 Make sure you have joined the following channels on Matrix in which ad-hoc communication takes place
 - [COM: Security - Governance](https://matrix.to/#/#COMSEC-GOV:auxolotl.org)
 - [COM: Security - General](https://matrix.to/#/#COMSEC-GEN:auxolotl.org)
+
+## Meeting notes
+Meeting notes are being archived and tagged in the forum, they can be accessed by filtering for the [meeting-minutes tag](https://forum.aux.computer/tags/c/committees/security-committee/26/meeting-minutes).
