@@ -2,7 +2,7 @@
 title: Aux Wiki
 description: Welcome to the Aux wiki!
 published: true
-date: 2024-05-17T01:04:39.784Z
+date: 2024-05-17T01:05:52.766Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T14:41:36.200Z
@@ -48,7 +48,7 @@ Auxolotl was created as a proactive friendly fork of the Nix ecosystem in order 
 
 ## Who's behind Auxolotl?
 
-Auxolotl is a [community-driven distribution](https://github.com/auxolotl/community) originally forked from Nix by [Jake Hamilton](https://github.com/jakehamilton). The team is organized into distinct Special Interest Groups (SIGs) covering separate parts of Auxolotl, such as package maintainers, documentation maintainers, community moderators, etc. If you'd like to contact or join the team, you can do so on the [Auxolotl community forums](https://forum.aux.computer/).
+Auxolotl is a [community-driven distribution](https://github.com/auxolotl/community) originally forked from Nix by [Jake Hamilton](https://github.com/jakehamilton). The team is organized into distinct [Special Interest Groups (SIGs)](/community/sigs) covering separate parts of Auxolotl, such as package maintainers, documentation maintainers, community moderators, etc. If you'd like to contact or join the team, you can do so on the [Auxolotl community forums](https://forum.aux.computer/).
 
 ## Links
 
