@@ -2,10 +2,10 @@
 title: Committees
 description: 
 published: true
-date: 2024-05-12T16:25:00.000Z
+date: 2024-05-17T21:10:13.463Z
 tags: 
 editor: markdown
-dateCreated: 2024-05-12T16:25:00.000Z
+dateCreated: 2024-05-11T16:31:30.923Z
 ---
 
 # Committees
@@ -32,6 +32,4 @@ Meetings are also announced on their respective committee category on the forum 
 
 | Committee     | Meeting Time           | Meeting length | Join Link                                       |
 |---------------|------------------------|----------------|-------------------------------------------------|
-| [Security]    | Thursdays at 18:00 UTC | around 1 hour  | [dfh's opentalk room](https://opentalk.mailbox.org/room/b7508d49-130c-48af-920d-53ebd8e3891a?invite=96dd445c-0b88-4a78-9fa4-33f6f260bbd6) |
-
-[Security]:security/welcome.md
+| [Security](/community/security/welcome.md)    | Thursdays at 18:00 UTC | around 1 hour  | [dfh's opentalk room](https://opentalk.mailbox.org/room/b7508d49-130c-48af-920d-53ebd8e3891a?invite=96dd445c-0b88-4a78-9fa4-33f6f260bbd6) |
