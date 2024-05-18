@@ -2,13 +2,16 @@
 title: Aux SIG Core
 description: Information regarding Aux Special Interest Group: Core
 published: true
-date: 2024-05-18T15:51:23.808Z
+date: 2024-05-18T15:52:09.217Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-18T13:18:06.677Z
 ---
 
 # Aux Special Interest Group Core
+## Welcome
+On this page you'll find information about what we do. How you can contribute, and general information about the team.
+
 ## Mission
 Aux SIG: Core is providing the minimum requirements to build critical things
 
