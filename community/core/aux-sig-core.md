@@ -1,8 +1,8 @@
 ---
 title: Aux SIG Core
-description: 
+description: Information regarding Aux Special Interest Group: Core
 published: true
-date: 2024-05-18T13:18:06.677Z
+date: 2024-05-18T15:51:23.808Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-18T13:18:06.677Z
