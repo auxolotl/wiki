@@ -2,14 +2,16 @@
 title: Project Standards
 description: 
 published: true
-date: 2024-05-16T22:16:24.144Z
+date: 2024-05-18T21:21:38.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T21:22:30.441Z
 ---
 
 # Naming
-All names, including but not limited to CI Actions, Respositories, and folder and file names inside the project, must follow lower-kebab-case except in cases where a program requires something else.
+All non-code names, including but not limited to CI Actions, Respositories, and folder and file names inside the project, must follow lower-kebab-case except in cases where a program requires something else.
+
+Names for variables, classes, etc. in code should instead follow our [code formatting standards](/contributing/formatting/code), which are generally that types should be `UpperCamelCase`, and other variables should be `lowerCamelCase`.
 
 # Structure
 All projects should provide:
