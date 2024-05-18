@@ -2,7 +2,7 @@
 title: SIGs
 description: Your guide to Special Interest Groups and what they do
 published: true
-date: 2024-05-06T02:30:33.716Z
+date: 2024-05-18T13:20:51.523Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-05T17:22:20.994Z
@@ -40,4 +40,5 @@ Meetings are also announced on their respective SIG category on the forum before
 
 | SIG           | Meeting Time           | Meeting length | Join Link                                       |
 |---------------|------------------------|----------------|-------------------------------------------------|
-| Documentation | Saturdays at 17:00 UTC | around 1 hour  | [AuxDocs on Jitsi](https://meet.jit.si/AuxDocs) |
+| Documentation | Saturdays at 17:00 UTC | around 1 hour  | [AuxSigDocs on Jitsi](https://meet.jit.si/AuxDocs) |
+| Core | Saturdays at TIME UTC | DURATION  | [AuxSigCore on Jitsi](https://meet.jit.si/AuxSigCore) |
