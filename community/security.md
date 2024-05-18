@@ -2,7 +2,7 @@
 title: Security Committee
 description: Information related to the Aux Security Committee
 published: true
-date: 2024-05-18T15:57:39.153Z
+date: 2024-05-18T15:58:31.116Z
 tags: security, cve, vulnerabilities
 editor: markdown
 dateCreated: 2024-05-16T19:25:47.469Z
@@ -13,7 +13,7 @@ dateCreated: 2024-05-16T19:25:47.469Z
 ## Welcome to the Security Committee
 
 These pages contain documentation specific to the Security Committee regarding:
-- Onboarding
+- [Onboarding/Joining](/community/security/onboarding)
 - Communication
 - Task Management
 
