@@ -2,7 +2,7 @@
 title: Formatting tools
 description: 
 published: true
-date: 2024-05-19T12:42:57.904Z
+date: 2024-05-19T12:43:53.827Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-19T12:41:51.196Z
@@ -98,6 +98,7 @@ For JavaScript or TypeScript, use [**Prettier**](https://prettier.io/).
 For more details, you can refer to [the prettier installation guide](https://prettier.io/docs/en/install).
 
 ### Python
+For Python, use [**Black**](https://black.readthedocs.io/en/stable/).
 
 # Linting tools
 
