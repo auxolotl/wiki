@@ -2,7 +2,7 @@
 title: Formatting tools
 description: 
 published: true
-date: 2024-05-19T12:41:51.196Z
+date: 2024-05-19T12:42:57.904Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-19T12:41:51.196Z
@@ -13,6 +13,10 @@ Please use the standard formatting tools for your language, and obey them over a
 
 > You should not configure your formatter, you should instead use its default options
 {.is-info}
+
+## Using treefmt
+
+// TODO
 
 ## Formatting manually
 
@@ -33,11 +37,11 @@ If you're using flakes, you can set your nix formatter in your `flake.nix` outpu
 {.is-info}
 ```nix
 {
-	inputs = {
-  	nixpkgs.url = "github:nixos/nixpkgs";
+  inputs = {
+    nixpkgs.url = "github:nixos/nixpkgs";
   };
 
-	outputs = { nixpkgs, ... }: {
+  outputs = { nixpkgs, ... }: {
     formatter.x86_64-linux = nixpkgs.legacyPackages.x86_64-linux.nixfmt-rfc-style;
   };
 }
