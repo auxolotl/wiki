@@ -2,7 +2,7 @@
 title: Glossary
 description: What does that thing mean?
 published: true
-date: 2024-05-20T22:46:16.487Z
+date: 2024-05-20T22:51:59.370Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-20T22:45:48.273Z
@@ -21,6 +21,8 @@ If you know something that we've not mentioned, please add it!
 | Word | Short for | Definition                                                                                                                                                                                            |
 | ---- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | COM  | Committee | A group of people responsible for setting standards for a specific area throughout the project. For more information, see [our page on Committees](/community/committees) |
+| COMSEC  | Security Committee | Our committee focused around security. See [the security community pages](/community/security) to learn more about them |
+
 
 ## S
 | Word | Short for              | Definition                                                                                                                                                                                            |
