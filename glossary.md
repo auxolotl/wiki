@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Glossary
 description: What does that thing mean?
 published: true
-date: 2024-05-20T22:45:48.273Z
+date: 2024-05-20T22:46:16.487Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-20T22:45:48.273Z
