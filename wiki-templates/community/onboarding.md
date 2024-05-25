@@ -2,7 +2,7 @@
 title: Onboarding
 description: 
 published: true
-date: 2024-05-25T15:53:49.007Z
+date: 2024-05-25T15:54:14.942Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-25T15:53:49.007Z
@@ -22,7 +22,7 @@ Should any of the links below be broken or descriptions inaccurate we highly app
 ## Group memberships
 1) Request your membership to the [Discourse Group "[FILL_IN]"](https://forum.aux.computer/g/[FILL_IN]/)
 2) Request your membership to the [Github Team "[FILL_IN]"](https://github.com/orgs/auxolotl/teams/[FILL_IN])
-3) Add/ update your membership status in the [community repo])(https://github.com/auxolotl/community)
+3) Add/ update your membership status in the [community repo](https://github.com/auxolotl/community)
   - Add or update your user settings in [`users.nix`](https://github.com/auxolotl/community/blob/main/users.nix)
   - Add your user to list `sigs.[FILL_IN].members` in [`memberships.nix`](https://github.com/auxolotl/community/blob/main/memberships.nix)
   - Create a PR to add yourself to the ["Team members" in the wiki]([FILL_IN]).
