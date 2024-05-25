@@ -2,7 +2,7 @@
 title: Vision
 description: 
 published: true
-date: 2024-05-24T19:33:34.890Z
+date: 2024-05-25T16:34:22.393Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-24T19:33:34.890Z
@@ -10,7 +10,9 @@ dateCreated: 2024-05-24T19:33:34.890Z
 
 ## What does this page contain?
 
-This article goes over values that we have stated elsewhere such as our roadmap. Here we are building upon and clarifying those values. In perticualar, we look into each value, as well at the end of the stage 3 of the roadmap, "solidification". Why are we doing this? Beacuse accessiblity for directions is unclear, and we would like to expand on the roadmap, to provide clarification to those that seek it.
+This article builds on and clarifies values we have stated elsewhere. In particular, we look into the values on our website and the "solidification" stage of the roadmap (stage 3).
+
+We've written this page because the roadmap is a broad-strokes list. It isn't clear in either values or measurable deliverables.
 
 ## What's our vision?
 
@@ -18,4 +20,4 @@ To create an alternative to nixpkgs. This alternative should be safer, kinder an
 
 ## What does a "minimum viable product" look like?
 
-Our minimum viable product would be when we have a system running Aux on bare metal which can be powered on and launch to a desktop environment. This system must not depend on nixpkgs.
+Our minimum viable product would be a system running Aux on bare metal. The system should be able to power on and launch to a desktop environment, such as KDE or Gnome. This system must not depend on nixpkgs.
