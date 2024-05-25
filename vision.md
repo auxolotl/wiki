@@ -2,7 +2,7 @@
 title: Vision
 description: 
 published: true
-date: 2024-05-25T16:34:22.393Z
+date: 2024-05-25T16:36:46.639Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-24T19:33:34.890Z
@@ -12,7 +12,7 @@ dateCreated: 2024-05-24T19:33:34.890Z
 
 This article builds on and clarifies values we have stated elsewhere. In particular, we look into the values on our website and the "solidification" stage of the roadmap (stage 3).
 
-We've written this page because the roadmap is a broad-strokes list. It isn't clear in either values or measurable deliverables.
+We've written this page because the roadmap is a broad-strokes list. It isn't clear in either vision or measurable deliverables.
 
 ## What's our vision?
 
