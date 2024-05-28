@@ -2,7 +2,7 @@
 title: Vision
 description: 
 published: true
-date: 2024-05-25T16:37:52.836Z
+date: 2024-05-28T22:21:16.209Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-24T19:33:34.890Z
@@ -16,7 +16,7 @@ We've written this page because the roadmap is a broad-strokes list. While it co
 
 ## What's our vision?
 
-To create an alternative to nixpkgs. This alternative should be safer, kinder and more welcoming to contributors or new members. We should also run it in a way which ensures people's ideas are listened to and understood.
+We want to create an alternative to nixpkgs which, when combined with alternative evaluators such as [Lix](https://lix.systems), will allow you to fully replace any dependencies on [NixOS](https://github.com/NixOS). This alternative should allow our contributors to be safe from discrimination or harassment. We should be welcoming to new members by providing solid documentation and a friendly and helpful community. Overall, we should foster a community that is kind to members, contributors and users. We should also run it in a way which ensures people's ideas are listened to and understood.
 
 ## What does a "minimum viable product" look like?
 
