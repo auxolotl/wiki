@@ -2,7 +2,7 @@
 title: Glossary
 description: What does that thing mean?
 published: true
-date: 2024-05-20T22:56:13.829Z
+date: 2024-05-28T22:37:17.924Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-20T22:45:48.273Z
@@ -37,5 +37,6 @@ If you know something that we've not mentioned, please add it!
 ## W
 | Word | Short for              | Definition                                                                                                                                                                                            |
 | ---- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| WANCAIN | We Are Nice 'Cause Aux Is Nice | A principle to be nice and kind, because doing so will build the nice community that we are aspiring to be. See [this forum post if you're interested in the origin of this phrase](https://forum.aux.computer/t/how-to-behave-on-aux-wancain/324) |
 | WG  | Working Group | Organized by Special Interest Groups, a temporary group for working on a specific project. May contain members from multiple special interest groups |
 
