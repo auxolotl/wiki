@@ -2,7 +2,7 @@
 title: Welcome Page
 description: 
 published: true
-date: 2024-05-31T20:01:54.001Z
+date: 2024-05-31T20:04:47.962Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-31T20:01:54.001Z
@@ -17,7 +17,7 @@ dateCreated: 2024-05-31T20:01:54.001Z
 
 ## Welcome to the [REPLACE_ME]
 
-These pages contain documentation specific to the Security Committee regarding:
+These pages contain documentation specific to the [REPLACE_ME] regarding:
 - [Onboarding/Joining]([REPLACE_ME])
 - Communication
 - Task Management
