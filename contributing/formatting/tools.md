@@ -2,7 +2,7 @@
 title: Formatting tools
 description: 
 published: true
-date: 2024-05-19T12:43:53.827Z
+date: 2024-06-01T17:43:44.321Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-19T12:41:51.196Z
@@ -92,8 +92,8 @@ Once you've done so, you can format all files with
 $ nixfmt **/*.nix
 ```
 
-### JavaScript, TypeScript
-For JavaScript or TypeScript, use [**Prettier**](https://prettier.io/). 
+### JavaScript, TypeScript, Markdown
+For JavaScript, TypeScript or Markdown, use [**Prettier**](https://prettier.io/). 
 
 For more details, you can refer to [the prettier installation guide](https://prettier.io/docs/en/install).
 
