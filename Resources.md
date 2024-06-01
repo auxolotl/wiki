@@ -2,7 +2,7 @@
 title: Resources
 description: resources for getting started or learning more
 published: true
-date: 2024-05-30T17:18:44.151Z
+date: 2024-06-01T17:53:23.787Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-30T17:18:44.151Z
@@ -21,6 +21,7 @@ dateCreated: 2024-05-30T17:18:44.151Z
 
 # Tutorials
 
+- [ryan4yin NixOS and Flake tutorial](https://nixos-and-flakes.thiscute.world)
 - [nix.dev](https://nix.dev/tutorials/#tutorials)
 - [Nix Pills](https://nixos.org/guides/nix-pills/)
 
