@@ -2,7 +2,7 @@
 title: Communication
 description: 
 published: true
-date: 2024-06-07T20:02:16.325Z
+date: 2024-06-07T20:02:37.323Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-07T19:58:49.689Z
@@ -16,5 +16,5 @@ dateCreated: 2024-06-07T19:58:49.689Z
 # Communication
 [FILL_IN] has a few different ways we can communicate. You can use any of the following:
 - Send a message to [[FILL_IN] - General on Matrix](https://matrix.to/#/#[FILL_IN]-GEN:auxolotl.org)
-- View ongoing topics in the [Discourse Category](https://forum.aux.computer/c/[FILL_IN])
+- View and comment on ongoing topics in the [Discourse Category](https://forum.aux.computer/c/[FILL_IN])
 - TODO (EMAIL)
