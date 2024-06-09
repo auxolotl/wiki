@@ -1,8 +1,8 @@
 ---
 title: Nix built-in and lib functions
 description: An overview of the various functions available in Nix and Nixpkgs lib.
-published: false
-date: 2024-06-09T16:32:18.232Z
+published: true
+date: 2024-06-09T16:32:39.315Z
 tags: nix, nixpkgs
 editor: markdown
 dateCreated: 2024-06-09T16:32:18.232Z
